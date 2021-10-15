@@ -27,9 +27,6 @@ i am looking for a  role where i can grow and continue to learn from other exper
 ## My GitHub Streak
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mgshubham90&theme=tokyonight)
 
-## My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mgshubham90&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
  
 ## 📫 How to reach me : 
 
