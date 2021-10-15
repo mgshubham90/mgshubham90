@@ -14,7 +14,7 @@ i am looking for a  role where i can grow and continue to learn from other exper
 
 **Version Control :**  GitHub
 
-###🌱 I’m currently learning everything
+### 🌱 I’m currently learning everything
 
 ## My GitHub Stats
 <a href="https://github.com/mgshubham90">
