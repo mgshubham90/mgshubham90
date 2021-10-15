@@ -33,5 +33,5 @@ i am looking for a  role where i can grow and continue to learn from other exper
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:mgshubham90@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/aditya-kumar-singh-a9b683219/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/mgshubham90/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https://https://www.facebook.com/profile.php?id=100028146980740/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://https://www.instagram.com/mg_shubham//)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https:///www.facebook.com/profile.php?id=100028146980740/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://https://www.instagram.com/mg_shubham/)
