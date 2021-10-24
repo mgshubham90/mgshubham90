@@ -1,7 +1,7 @@
 # Hi there, I'm [Aditya kumar singh!](https://mgshubham90.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mgshubham90&label=Views&color=blue&style=plastic" alt="mgshubham90"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mgshubham90&label=Visitors&color=red&style=plastic" alt="mgshubham90"/>
 <a href="https://github.com/mgshubham90">
-  <img align="left" alt="Aditya's Github Followers" height="18px" src="https://img.shields.io/github/followers/mgshubham90?label=Follow"/>
+  <img align="left" alt="Aditya's Github Followers" height="18px" src="https://img.shields.io/github/followers/mgshubham90?label=Follower"/>
 </a>
 </p>
 i am looking for a  role where i can grow and continue to learn from other experienced
@@ -9,10 +9,6 @@ i am looking for a  role where i can grow and continue to learn from other exper
 
 ## 👩‍💻 My Coding Skills :
 **Languages :**  C/C++, Java, HTML 
-
-**Development Environment :** VS Code 
-
-**Version Control :**  GitHub
 
 ### 🌱 I’m currently learning everything
 
