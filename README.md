@@ -1,4 +1,4 @@
-# Hi there, I'm [Aditya kumar singh!](https://mgshubham90.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Aditya kumar singh!](https://mgshubham90.github.io/)<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mgshubham90&label=Visitors&color=red&style=plastic" alt="mgshubham90"/>
 <a href="https://github.com/mgshubham90">
   <img align="left" alt="Aditya's Github Followers" height="18px" src="https://img.shields.io/github/followers/mgshubham90?label=Follower"/>
