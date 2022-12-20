@@ -32,4 +32,4 @@ i am looking for a  role where i can grow and continue to learn from other exper
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https://www.facebook.com/profile.php?id=100028146980740/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/mg_shubham/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/mgshubham#8541)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://https://twitter.com/MgShubham1/)
+
