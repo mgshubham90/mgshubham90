@@ -8,7 +8,7 @@ i am looking for a  role where i can grow and continue to learn from other exper
 
 
 ## 👩‍💻 My Coding Skills :
-**Languages :**  C/C++, Java, HTML 
+**Languages :**  C/C++, HTML, JavaScript 
 
 ### 🌱 I’m currently learning everything
 
